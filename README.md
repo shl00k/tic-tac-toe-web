@@ -54,6 +54,8 @@ tic-tac-toe-js/
 1. Clone the repository: git clone https://github.com/shl00k/tic-tac-toe-web.git
 2. Open `index.html` in your browser.
 
+1. Or Play Directly: https://shl00k.github.io/tic-tac-toe-web/
+
 No additional setup required.
 
 ---
