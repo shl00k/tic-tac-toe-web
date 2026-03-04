@@ -32,13 +32,13 @@ boxes.forEach((box) => {
             box.innerText = "O";
             smbl.innerText = "X"
             body.style.backgroundColor = "#FF7070"
-            box.style.color = "#FF7070"
+            box.style.color = "#7AAACE"
             osTurn = false;
         } else {
             box.innerText = "X";
             smbl.innerText = "O";
             body.style.backgroundColor = "#7AAACE"
-            box.style.color = "#7AAACE"
+            box.style.color = "#FF7070"
             osTurn = true;
         }
         count++;
@@ -102,4 +102,5 @@ reset.addEventListener("click", () => {
         count = 0;
         isDraw = true;
     })
+
 })
